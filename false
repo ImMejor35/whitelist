@@ -1,1 +1,1 @@
-loadfile(...)
+loadstring(readfile(...))()
