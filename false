@@ -1,4 +1,1 @@
-local path = ...
-if path then
-  return loadfile(...)
-end
+loadfile(...)
