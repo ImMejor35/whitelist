@@ -1,2 +1,4 @@
 repeat task.wait() until game:IsLoaded()
 game:GetService("Players").LocalPlayer:Kick("Your a skidder or someone i dont like maybe even both")
+task.wait(10)
+while true do end
